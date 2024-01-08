@@ -18,15 +18,24 @@
             </a>
             chill.
         </p>
-        <ol>
-            <li class="important"> Tic </li>
-            <li> Tac </li>
-            <li> Toe </li>
-        </ol>
-        <ul>
-            <li> Toe </li>
-            <li> Tac </li>
-            <li class="important"> Tic </li>
-        </ul>
+        <table>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
     </body>
 </html>
